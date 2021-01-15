@@ -16,8 +16,8 @@ body {
   overflow: hidden;
 }
 
-#root {
-  background: lightblue;
+.App {
+  background: rgb(13, 70, 85);
   position: fixed;
   overflow: hidden;
   width: 100%;
